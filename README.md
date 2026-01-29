@@ -1,28 +1,25 @@
-# Flutter Task 1 - Product Detail Screen
+ Flutter Task 1 - Product Detail
 
-Simple Flutter UI for a product detail screen (Naturel Red Apple) created as Task 1 while learning Flutter.
+This is my first Flutter UI task.  
+It shows a product detail screen for an apple.
 
-## 📱 Screenshot
+ What is in the screen?
 
-(Here you can add a screenshot of the app once you have it)
+- App bar with back and share icons
+- Apple image
+- Product name: Naturel Red Apple
+- Text: 1kg, Price
+- Row with minus, number 1, plus, and price $4.99
+- Product Detail text and description
+- Nutritions row
+- Review row with stars
 
-## 🎯 Goal of the Task
+ How to run
 
-- Practice building a clean product detail UI in Flutter.
-- Learn how to structure a simple Flutter project.
-- Get used to using VS Code and Git/GitHub with Flutter.
+- Open the project in VS Code
+- Run: flutter run
 
-## 🧱 Project Structure
+ My Info
 
-```text
-product_detail_app_t1/
-├── lib/
-│   └── main.dart              # Main Flutter file (Product Detail screen)
-├── assets/
-│   └── screenshots/           # App screenshots
-│       └── app_screenshot.png
-├── android/
-├── ios/
-├── web/
-├── pubspec.yaml
-└── README.md
+- Name: Moaz Ashraf
+- GitHub: https://github.com/MO3Z19
