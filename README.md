@@ -5,6 +5,9 @@ It shows a product detail screen for an apple.
 
  What is in the screen?
 
+ 
+![app_screenshot](https://github.com/user-attachments/assets/e463a861-dfc2-4a4a-b076-d0ecfa8dcf43)
+
 - App bar with back and share icons
 - Apple image
 - Product name: Naturel Red Apple
